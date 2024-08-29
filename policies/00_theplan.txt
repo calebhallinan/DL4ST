@@ -1,0 +1,47 @@
+The plan:
+
+~14 lectures 1-2 hours each
+Can be less if I make it 1 credit vs 2 credits
+
+Lecture 1: 
+- Intro to myself
+- goals of the class
+- intro to the the github and how to work with it
+- quick review of git and python
+
+Lecture 2: 
+- intro to deep learning
+- intro to pytorch
+
+Lecture 3:
+- intro to pytorch 2
+
+Lecture 4:
+- intro to pytorch 3
+
+Lecture 5: 
+- in class work of pytorch
+
+Lecture 6:
+- intro to spatial transcriptomics
+
+Lecture 7:
+- working with spatial transcriptomics data in python
+
+Lecture 8:
+- pytorch with spatial transcriptomics
+
+Lecture 9:
+- pytorch with spatial transcriptomics 2
+
+Lecture 10:
+- pytorch with spatial transcriptomics project work day
+
+Lecture 11:
+- pytorch with spatial transcriptomics project work day 2
+
+Lecture 12:
+- pytorch with spatial transcriptomics project presentations
+
+Lecture 13:
+- pytorch with spatial transcriptomics project presentations 2
