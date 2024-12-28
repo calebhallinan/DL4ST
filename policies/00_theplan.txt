@@ -1,47 +1,63 @@
 The plan:
 
-~14 lectures 1-2 hours each
+10 lectures 2 hours and 45 minutes each
 Can be less if I make it 1 credit vs 2 credits
+
 
 Lecture 1: 
 - Intro to myself
 - goals of the class
-- intro to the the github and how to work with it
+- intro to the github and how to work with it
 - quick review of git and python
 
-Lecture 2: 
+
 - intro to deep learning
 - intro to pytorch
 
-Lecture 3:
-- intro to pytorch 2
 
-Lecture 4:
-- intro to pytorch 3
-
-Lecture 5: 
+Lecture 2:
+- intro to pytorch
 - in class work of pytorch
 
-Lecture 6:
-- intro to spatial transcriptomics
 
-Lecture 7:
+Lecture 3:
+- intro to pytorch
+- in class work of pytorch
+
+
+Lecture 4:
+- intro to spatial transcriptomics
 - working with spatial transcriptomics data in python
 
-Lecture 8:
+
+Lecture 5:
 - pytorch with spatial transcriptomics
 
-Lecture 9:
-- pytorch with spatial transcriptomics 2
 
-Lecture 10:
-- pytorch with spatial transcriptomics project work day
+Lecture 6:
+- review and more details
+- applications of deep learning to spatial transcriptomics
 
-Lecture 11:
+
+Lecture 7:
+- pytorch with spatial transcriptomics project work day 1
+
+
+Lecture 8:
 - pytorch with spatial transcriptomics project work day 2
 
-Lecture 12:
+
+Lecture 9:
+- 
+
+
+Lecture 10:
 - pytorch with spatial transcriptomics project presentations
 
-Lecture 13:
-- pytorch with spatial transcriptomics project presentations 2
+
+Thoughts:
+- final project is predicting gene expression and is a competition, whoever gets best pearson correlation wins!
+	- use basic CNN, basic MLP and explain why they choose what they did!
+	- 
+- maybe in class but zoom and everyone joins the meeting so people can easily share their screens
+
